@@ -9,8 +9,8 @@
 
   header {
     font-size: 30px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: -20px;
+    margin-bottom: -20px;
     margin-left: 210px; 
     margin-right: 200px; 
   }
@@ -31,7 +31,7 @@
      left: 2px;
      text-align: center;
      width: 284px;
-     height: 180px;
+     height: 200px;
 
   }
 
@@ -43,6 +43,8 @@
   #p1 {
     font-size: 20px;
     color: black;
+    margin-top: -25px;
+    margin-bottom: -25px;
     margin-right: 120px;
     margin-left: 200px;
     line-height: 150%;
@@ -61,11 +63,11 @@
     font-size: 25px;
 }
   #box-absolute {
-    width: 570px;
+    width: 575px;
     height: 170px;
     background-color: #999;
     position: absolute;
-    bottom: -120px;
+    bottom: -48px;
     right: 78px;
     overflow: visible;  
     text-align: center;  
