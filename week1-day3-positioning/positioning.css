@@ -30,7 +30,7 @@
      top: 0px;
      left: 2px;
      text-align: center;
-     width: 284px;
+     width: 280px;
      height: 200px;
 
   }
@@ -69,7 +69,7 @@
     position: absolute;
     bottom: -28px;
     right: 78px;
-    overflow: visible;  
+    overflow: visible;
     text-align: center;  
     font-size: 25px;
 }
